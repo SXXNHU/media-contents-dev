@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+#meta file 추가
+*.png
+*.jpg
+*.meta
+*.fbx
+*.obj
+*.mp4
+*.mov
+*.wab
+*.ogg
